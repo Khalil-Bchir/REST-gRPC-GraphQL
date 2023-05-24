@@ -62,4 +62,3 @@ The API documentation for the Todo List and User Authentication services can be 
 Contributing
 Contributions are welcome! If you find any issues or want to add new features, please open an issue or submit a pull request.
 
-License
